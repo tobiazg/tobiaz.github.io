@@ -1,0 +1,110 @@
+#main-content div{
+	background-color: white;
+	margin:800px;
+		
+	
+}
+.static-width{
+	width: 800px;
+}
+
+h1 {
+	font-family: 'Muli', sans-serif; 
+	font-weight: 900;
+	font-size: 30px;
+			
+									}
+h2 {
+	font-family:  'Muli', sans-serif; 
+	font-weight:700;
+	font-size: 25px;
+									}
+h3 {
+	font-family:  'Muli', sans-serif; 
+	font-weight:700;
+	font-size: 25px;
+	text-align: center
+									}
+p  {
+	font-family: 'Muli'; 
+	font-weight:400;
+	font-size: 18px;
+	margin-bottom: 50px;
+	padding-left: 2px;
+	padding-right: 40%;
+									}
+
+#links {   
+    margin-top:2px;
+    margin-left: 0px; 
+    margin-right: 0px;
+}
+#links a {
+    vertical-align: top;
+    display: inline-block;
+    *display: inline;
+    zoom: 0;
+}
+
+ul {
+font:25px 'Muli',san-serif;
+font-family: Muli;
+margin-top: 5px
+}
+
+ol {
+font:25px 'Muli',san-serif;
+font-family: Muli;
+margin-top: 5px
+}
+
+tr {
+font:25px 'Muli',san-serif;
+font-family: Muli;
+margin-top: 5px
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 30px;
+  border: 0px solid white; 
+}
+
+.imgs {
+  
+  justify-content: left;
+	display: block;
+	overflow: auto;
+  align-items: left;
+  height: 100%;
+  border: 0px solid white;
+}
+
+
+
+.menu {
+position: static;
+height: 80px;
+overflow:scroll;
+overflow-y: hidden;
+white-space:nowrap; 
+	align-content: center;
+		justify-content: center;
+	align-items: center;
+}
+	
+.top {
+ position: static;
+height: 80px;
+overflow:scroll;
+overflow-y: hidden;
+white-space:nowrap; 
+	background-color: white;
+}
+
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
