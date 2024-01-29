@@ -1,7 +1,7 @@
 <h1> ✌️ </h1>
 
 <h2> content first </h2>
-  <li><a href="CONTENTFIRST/content_first.html">📎 content first</a></li>
+  <li><a href="aboutme_tobias.html">📎 content first</a></li>
 
 <h2> first impressions </h2>
   <li><a href="firstimpressions.html">📎 first impressions</a></li>
